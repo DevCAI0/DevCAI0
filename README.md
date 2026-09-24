@@ -33,7 +33,7 @@ Sistema de gestão de refeições corporativas com reconhecimento facial, integr
 
 ## Contato
 
-- LinkedIn: [linkedin.com/in/caio-ribeiro-7225941a0](https://www.linkedin.com/in/caio-ribeiro-7225941a0)
+- LinkedIn: [linkedin.com/in/SEU_USUARIO](https://linkedin.com/in/SEU_USUARIO)
 
 ---
 
