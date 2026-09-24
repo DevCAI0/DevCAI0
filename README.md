@@ -1,4 +1,4 @@
-# Olá, eu sou o Caio
+# Olá, eu sou o Caio 👋
 
 **Desenvolvedor Full Stack** de Vitória da Conquista, Bahia, Brasil.
 
@@ -34,6 +34,8 @@ Sistema de gestão de refeições corporativas com reconhecimento facial, integr
 ## Contato
 
 - LinkedIn: [linkedin.com/in/SEU_USUARIO](https://linkedin.com/in/SEU_USUARIO)
+- E-mail: SEU_EMAIL@exemplo.com
+- Portfólio: [SEU_PORTFOLIO.com.br](https://SEU_PORTFOLIO.com.br)
 
 ---
 
